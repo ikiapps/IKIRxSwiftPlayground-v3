@@ -1,6 +1,6 @@
 # IKIRxSwiftPlayground-v3
 
-This project consists of a minimal workspace with a playground for testing macOS/iOS code with [RxSwift](https://github.com/ReactiveX/RxSwift).
+This project consists of a minimal workspace with playgrounds for testing macOS/iOS code with [RxSwift](https://github.com/ReactiveX/RxSwift).
 Of course, you can also add other frameworks easily through Carthage.
 Tested with Xcode 9.4.1, Swift 4.1.2 and RxSwift 4.2.0.
 
