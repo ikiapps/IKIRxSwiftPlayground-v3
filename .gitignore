@@ -1,0 +1,9 @@
+# Xcode
+*.pbxuser
+!default.pbxuser
+xcuserdata
+*.xccheckout
+*.xcuserstate
+
+# Carthage
+Carthage/
